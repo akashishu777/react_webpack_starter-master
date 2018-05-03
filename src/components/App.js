@@ -5,7 +5,7 @@ class App extends Component {
     return (
       <div>
         <h1>My React App!</h1>
-        <h1>running</h1>
+        <h1>Running</h1>
       </div>
     );
   }
